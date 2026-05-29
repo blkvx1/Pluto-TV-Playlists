@@ -1071,6 +1071,11 @@
         <desc>Life for an entrepreneur and his American family begin to take a twisted turn after moving into an English country manor.</desc>
         <icon src="https://images.pluto.tv/series/6585aa1408d0ab001359c6ce/tile_1764823682213.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62bdb0bcd707b9000739d2e5" start="20260529140500 +0000" stop="20260529161600 +0000">
+        <title>Ulee's Gold</title>
+        <desc>A solitary beekeeper experiences heartache and danger as he struggles to protect his troubled family.</desc>
+        <icon src="https://images.pluto.tv/series/69bafeb10aa5b14fac96c2ca/tile_1774885932923.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62bdb5500c21270007218ce1" start="20260529090800 +0000" stop="20260529093900 +0000">
         <title>Fall of Fame</title>
         <desc>When luck takes a day off, athletes find new and creative ways to go down in fail-tastic fashion.</desc>
@@ -8020,6 +8025,11 @@
         <title>English League Two Soccer</title>
         <desc>Final.</desc>
         <icon src="https://images.pluto.tv/series/6605c596e2d564001366d2ca/tile_1762214872161.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20260529142800 +0000" stop="20260529164300 +0000">
+        <title>English Championship Soccer</title>
+        <desc>Semifinal, 2nd Leg.</desc>
+        <icon src="https://images.pluto.tv/series/655d611a21ca0c0013789a01/tile_1760997836282.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6482f27c17f5e10008c10ff0" start="20260529092400 +0000" stop="20260529095500 +0000">
         <title>Arthur</title>
@@ -35200,10 +35210,30 @@ an ER doctor has to overcome his fears when he's confronted with an unusual seri
         <desc>Bondi Rescue follows the work of the elite professional Lifeguards who patrol Australia's busiest beach - Bondi. Home of the weird, wonderful, beautiful, deadly and dangerous, join Australia’s favourite lifeguards on Bondi Rescue 24/7.</desc>
         <icon src="https://images.pluto.tv/series/662bb51d06839f0008d25b88/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66289716039f940008cf20a2" start="20260530013000 +0000" stop="20260530053000 +0000">
-        <title>The Dog Whisperer with Caesar Millan</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66289716039f940008cf20a2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="66289716039f940008cf20a2" start="20260530010000 +0000" stop="20260530020000 +0000">
+        <title>Dog Whisperer</title>
+        <desc>Playboy Playmates, Miss February 2010 is having trouble with her Chihuahua, while Orange County, Miss September 2011 with her terrier pug mix.</desc>
+        <icon src="https://images.pluto.tv/series/667e8a1dfe060c001322d2f0/tile_1752548633652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66289716039f940008cf20a2" start="20260530020000 +0000" stop="20260530030000 +0000">
+        <title>Dog Whisperer</title>
+        <desc>Cesar helps comedians Skyler Stone, Ralphie May and Paul Rodriguez get to grips with their unruly hounds.</desc>
+        <icon src="https://images.pluto.tv/series/667e8a1dfe060c001322d2f0/tile_1752548633652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66289716039f940008cf20a2" start="20260530030000 +0000" stop="20260530040000 +0000">
+        <title>Dog Whisperer</title>
+        <desc>Cesar helps dogs overcome their fears including a whippet mix who is blind and deaf, a labradoodle that fears the ocean, and a cocker spaniel that fears all humans.</desc>
+        <icon src="https://images.pluto.tv/series/667e8a1dfe060c001322d2f0/tile_1752548633652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66289716039f940008cf20a2" start="20260530040000 +0000" stop="20260530050000 +0000">
+        <title>Dog Whisperer</title>
+        <desc>An Alaskan malamute exhibits aggressive tendencies; Cesar helps a professional dog walker with her clients.</desc>
+        <icon src="https://images.pluto.tv/series/667e8a1dfe060c001322d2f0/tile_1752548633652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66289716039f940008cf20a2" start="20260530050000 +0000" stop="20260530060000 +0000">
+        <title>Dog Whisperer</title>
+        <desc>A German shepherd and Welsh corgi mix has dog aggression; a blind Lab chases his tail when he is around food.</desc>
+        <icon src="https://images.pluto.tv/series/667e8a1dfe060c001322d2f0/tile_1752548633652.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6728c561daad7f000881ac83" start="20260530010800 +0000" stop="20260530020000 +0000">
         <title>Wicked Tuna</title>
@@ -35235,10 +35265,10 @@ an ER doctor has to overcome his fears when he's confronted with an unusual seri
         <desc>With the season half over, the fleet tries to catch up to Dave and Paul.</desc>
         <icon src="https://images.pluto.tv/series/67a336c1b3210d00131b132d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6729d651c7626f0008b5dacf" start="20260530013000 +0000" stop="20260530020700 +0000">
-        <title>Super Channel Hearties</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6729d651c7626f0008b5dacf/featuredImage_1767627073238.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6729d651c7626f0008b5dacf" start="20260530011600 +0000" stop="20260530020700 +0000">
+        <title>Heartland</title>
+        <desc>Amy enters Spartan into an endurance race after realizing he's not ready to retire; Jack is set on gentling an unbroke horse despite the danger; Lou and Katie reveal hidden feelings while camping.</desc>
+        <icon src="https://images.pluto.tv/series/67a5d31b3d4e117043d7847b/tile_1761592360008.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6729d651c7626f0008b5dacf" start="20260530020700 +0000" stop="20260530030000 +0000">
         <title>Heartland</title>
@@ -43920,35 +43950,10 @@ an ER doctor has to overcome his fears when he's confronted with an unusual seri
         <desc>Brie Larson is the box office-shattering star you know from films like "Room," "Captain Marvel," and more.</desc>
         <icon src="https://images.pluto.tv/series/65983590d40ef30013d641fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20260530052900 +0000" stop="20260530061000 +0000">
+    <programme channel="66166ce7aec96800080f6bd3" start="20260530053000 +0000" stop="20260530093000 +0000">
         <title>The Graham Norton Show</title>
-        <desc>On the sofa tonight: Benedict Cumberbatch, starring as Alan Turing in 'The Imitation Game'; comedy favourite Miranda Hart; Timothy Spall, who won Best Actor at Cannes for his role in 'Mr Turner'; and musical guests Maroon 5, who perform 'Animals'.</desc>
-        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20260530061000 +0000" stop="20260530065200 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>Joining Graham on the sofa are Tom Hanks, Peter Capaldi, David Walliams and Duran Duran.</desc>
-        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20260530065200 +0000" stop="20260530073500 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>Together on Graham's sofa tonight: stage and screen favourite Julie Walters, queen of comedy Miranda Hart, king of "Strictly Come Dancing" Len Goodman and music and chat from British rap star Tinie Tempah.</desc>
-        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20260530073500 +0000" stop="20260530082100 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>Among the guests on Graham's sofa are actor and musician Justin Timberlake and Oscar-nominated actress Anna Kendrick, co-starring in animation `Trolls'. Also, versatile British actor Daniel Radcliffe, and Robbie Williams who performs his new single.</desc>
-        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20260530082100 +0000" stop="20260530085300 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>Among the guests on Graham's sofa tonight: Hollywood megastar Harrison Ford, starring in new sci-fi adventure 'Ender's Game'; top comedian Jack Whitehall; and music and chat from James Blunt, who performs 'Bonfire Heart'.</desc>
-        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66166ce7aec96800080f6bd3" start="20260530085300 +0000" stop="20260530093800 +0000">
-        <title>The Graham Norton Show</title>
-        <desc>Graham is joined by David Beckham, Will Smith, Margot Robbie, Hugh Jackman and Noel Gallagher who performs his new single.</desc>
-        <icon src="https://images.pluto.tv/series/6703ff5ea2922a0013bf1342/tile_1752747103773.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="666815f24b9fb400083f7e31" start="20260530051800 +0000" stop="20260530060800 +0000">
         <title>Dr. Phil</title>

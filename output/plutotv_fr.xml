@@ -15148,10 +15148,10 @@ CA CHAUFFE DANS LE BLOC B !</title>
         <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260529211600 +0000" stop="20260529213000 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260529211600 +0000" stop="20260529223400 +0000">
+        <title>Boxing: Haney vs Garcia</title>
+        <desc>There is set to be a huge fight in the US on April 20 when Devin Haney and Ryan Garcia go head-to-head for the WBO Super Lightweight championship.</desc>
+        <icon src="https://images.pluto.tv/series/69b056302ca4ae01e91304bc/tile_1773164082717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c2a2d2433010008df7e92" start="20260529171500 +0000" stop="20260529180900 +0000">
         <title>All Penalty Shootouts from the FIFA World Cup</title>
@@ -17027,6 +17027,11 @@ CA CHAUFFE DANS LE BLOC B !</title>
         <title>Mara</title>
         <desc>La psychologue Kate Fuller enquête sur un homme étranglé durant un cauchemar et découvre qu’un ancien démon tue ses victimes dans leur sommeil. Touchée à son tour par les mêmes symptômes, elle doit percer le mystère avant de sombrer.</desc>
         <icon src="https://images.pluto.tv/series/698087ea2d86f87535ce4f8c/tile_1777925882002.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66e1978babec540008ce41ac" start="20260530015646 +0000" stop="20260530034348 +0000">
+        <title>Blood Quantum</title>
+        <desc>Près de la réserve de Red Crow, les morts reviennent à la vie. Seuls les autochtones sont immunisés. Traylor, le shérif, doit protéger les siens, sa future belle-fille enceinte… et gérer l’arrivée de réfugiés blancs en quête de refuge.</desc>
+        <icon src="https://images.pluto.tv/series/6895f203baa646038d36955f/tile_1754657284779.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66f55d0b5e4a6e0008c2b920" start="20260529213000 +0000" stop="20260529220000 +0000">
         <title>Enquêtes Criminelles</title>

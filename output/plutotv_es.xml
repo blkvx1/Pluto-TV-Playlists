@@ -1561,10 +1561,10 @@
         <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
         <icon src="https://images.pluto.tv/series/67b5b8485d2668ecc5083e40/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac947dcd00d0007937c08" start="20260529093000 +0000" stop="20260529094859 +0000">
-        <title>Pluto TV Cine Drama</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f1ac947dcd00d0007937c08" start="20260529080416 +0000" stop="20260529094859 +0000">
+        <title>La segunda oportunidad</title>
+        <desc>Una madre divorciada intenta hacer las paces con su disfuncional familia encontrando una segunda oportunidad en el amor.</desc>
+        <icon src="https://images.pluto.tv/series/6a0c3770114ca7fcbe9c4446/tile_1779185521283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac947dcd00d0007937c08" start="20260529094859 +0000" stop="20260529111459 +0000">
         <title>23-F: El día más difícil del Rey</title>
@@ -24498,6 +24498,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Historia que tú hiciste</title>
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260530070000 +0000" stop="20260530071500 +0000">
+        <title>Aprende inglés con Vaughan en Realmadrid TV</title>
+        <desc>Espacio destinado a la enseñanza del inglés con ejercicios útiles y distintas actividades.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a39953/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260530000000 +0000" stop="20260530021600 +0000">
         <title>2023 FIFA Women's World Cup</title>
